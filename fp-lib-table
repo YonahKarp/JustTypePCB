@@ -1,0 +1,1 @@
+(fp_lib_table (lib (name "JustType_Footprints") (type "KiCad") (uri "${KIPRJMOD}/JustType_Footprints.pretty") (options "") (descr "Project connector footprints")))
