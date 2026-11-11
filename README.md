@@ -1,1 +1,1 @@
-PCB for the first prototype of the JustType Leaf JustTypeLeaf.com
+PCB for the first prototype of the JustType Leaf [JustTypeLeaf.com](https://justtypeleaf.com/)
